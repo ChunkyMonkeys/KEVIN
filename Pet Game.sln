@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FCD0BA40-6C62-A1CC-9E6D-871DFC05D170}") = "Pet Game", "Assembly-CSharp.csproj", "{393DD0E5-24CB-07E6-A243-FFB4D0C29A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393DD0E5-24CB-07E6-A243-FFB4D0C29A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393DD0E5-24CB-07E6-A243-FFB4D0C29A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393DD0E5-24CB-07E6-A243-FFB4D0C29A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393DD0E5-24CB-07E6-A243-FFB4D0C29A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

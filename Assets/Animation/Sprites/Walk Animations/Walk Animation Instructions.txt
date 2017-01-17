@@ -1,0 +1,8 @@
+Walk Animation Instructions
+
+Each frame should hold for for 0.2 seconds (or 0.5 if you want him to walk more slowly)
+The frame pattern should be:
+
+1	2	3	2	(Then Repeat)
+
+For audio, one loop of the animation lasts approximately 1 second (or 2 seconds, if we are animating 0.5 seconds per frame)

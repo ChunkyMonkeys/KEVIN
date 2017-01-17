@@ -1,0 +1,7 @@
+Sleep Animation Instructions
+Each frame should hold for 0.5 seconds.
+The Animation Pattern should be:
+
+1	2	3	2 	(Then Repeat).
+
+For Audio, the animation lasts approximately 2 seconds.

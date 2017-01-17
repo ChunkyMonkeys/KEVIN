@@ -1,0 +1,8 @@
+Bursting for the Toilet Animation Instructions
+
+Each frame should hold for 0.2 seconds.
+The animation frame pattern is:
+
+1	2	3	4	5	4	5	3	2	(Then Repeat)
+
+For Audio, the animation lasts approximately 2 seconds.

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Kevin.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerMove.cs" Line="59" Column="27" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="63" Column="2" />
+      <File FileName="Assets\Scripts\SleepPrompt.cs" Line="13" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

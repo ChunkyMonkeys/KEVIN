@@ -1,0 +1,9 @@
+I have created 3 key frames for now displaying a basic idle 'breathing' animation.
+Each frame should hold for about 0.2 seconds/or at least 3 frames (I'm not sure how animation works on unity).
+I noticed just now that the facial features don't move with the head but I will fix that by next week (or most likely friday).
+
+If you have any problems feel free to message me.
+
+The animation sequence should move like this:
+
+Frame 1, Frame 2, Frame 3, Frame 2 (then repeat to create a loopabale sequence).

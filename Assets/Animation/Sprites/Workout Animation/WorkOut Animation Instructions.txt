@@ -1,0 +1,8 @@
+WorkOut Animation Instructions.
+Each frame should hold for 0.5 seconds.
+
+The pattern of frames should be:
+
+1	2	1	3	(then repeat)
+
+For Audio, the animation lasts, approximately, 2 seconds.
